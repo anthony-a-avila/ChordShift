@@ -17,7 +17,7 @@ This project compares two search algorithms, A* and Simulated Annealing, to gene
 
 ## Technical Details
 ### Algorithms
-1. **A***: A global search algorithm that finds an optimal solution by exploring multiple paths using a heuristic evaluation function. In this case the heuristic is calculated by finding the minimum edit distance from one pitch-class set to another.
+1. **A***: A global search algorithm that finds an optimal solution by exploring multiple paths using a heuristic evaluation function. In this case, the heuristic is calculated by finding the minimum edit distance from one pitch-class set to another.
 2. **Simulated Annealing**: A local search algorithm inspired by annealing in metallurgy, capable of escaping local optima to find near-optimal solutions.
 
 ### Evaluation Function
