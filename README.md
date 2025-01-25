@@ -3,7 +3,7 @@
 ## Overview
 ChordShift is a Python-based tool designed to help musicians and composers explore unique harmonic combinations using algorithmic generation. By leveraging pitch-class sets within the 12-tone equal temperament system, ChordShift enables users to discover novel harmonic ideas and expand their musical vocabulary.
 
-This project compares two search algorithms, A* and Simulated Annealing, to generate intermediate chords that satisfy user-defined harmonic constraints. Users can define their preferences for consonance or dissonance, making the tool highly customizable, but additionally agnostic to subjective musical preferences.
+This project compares two search algorithms, A* and Simulated Annealing, to generate intermediate chords that satisfy user-defined harmonic constraints. Users can define their preferences for consonance or dissonance, making the tool highly customizable, but also agnostic to subjective musical preferences.
 
 ---
 
